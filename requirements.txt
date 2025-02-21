@@ -1,0 +1,7 @@
+# genai
+openai
+requests
+python-dotenv
+pydantic
+pydantic-settings
+language-tool-python
