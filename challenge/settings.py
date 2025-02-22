@@ -6,3 +6,6 @@ class Settings(BaseSettings):
 
     OPENROUTER_API_KEY: str
     HUGGINFACE_API_KEY: str
+    MODELS: str
+    QUESTION_PROMPT: str
+    RANKING_PROMPT: str
