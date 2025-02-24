@@ -33,6 +33,8 @@ RANKING_PROMPT="Given a list of responses from different models to a question,
 please rank them from best to worst based on clarity, relevance, and coherence. 
 Respond with the ranking numbers associated with each response, that is, 1 for the best response, 
 2 for the second best, and so on. Respond only with the ranks and the corresponding responses."
+
+PROMPTS_LANGUAGE="en-US"
 ```
 
 ## Arquivos gerados

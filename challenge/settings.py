@@ -9,3 +9,4 @@ class Settings(BaseSettings):
     MODELS: str
     QUESTION_PROMPT: str
     RANKING_PROMPT: str
+    PROMPTS_LANGUAGE: str

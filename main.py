@@ -17,7 +17,7 @@ def main():
         hugginfacekey=settings.HUGGINFACE_API_KEY,
         question_prompt=settings.QUESTION_PROMPT,
         ranking_prompt=settings.RANKING_PROMPT,
-        language="en-US"
+        language=settings.PROMPTS_LANGUAGE
     )
 
     analysis_results = {
