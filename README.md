@@ -41,6 +41,9 @@ Obs.: variáveis de ambiente definidas no shell têm maior prioridade que as
 definidas no arquivo `.env`. Se alguma variável do arquivo não está sendo usada
 com o valor definido, verifique se ela não está sendo definida também no shell.
 
+A chave para o OpenRouter pode ser gerada em [https://openrouter.ai/settings/keys](https://openrouter.ai/settings/keys)
+e a do Huggin Face em [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens).
+
 ## Arquivos gerados
 
 O programa vai gerar arquivos de imagem `.png` para os gráficos comparativos e
