@@ -37,6 +37,10 @@ Respond with the ranking numbers associated with each response, that is, 1 for t
 PROMPTS_LANGUAGE="en-US"
 ```
 
+Obs.: variáveis de ambiente definidas no shell têm maior prioridade que as
+definidas no arquivo `.env`. Se alguma variável do arquivo não está sendo usada
+com o valor definido, verifique se ela não está sendo definida também no shell.
+
 ## Arquivos gerados
 
 O programa vai gerar arquivos de imagem `.png` para os gráficos comparativos e
